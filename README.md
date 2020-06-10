@@ -3,6 +3,9 @@
 
 ### **Introducción**
 
+![Imagen 1]()
+``Imagen 1``
+
 El artículo-tutorial por presentar es relevante para las Humanidades Digitales y para el mundo hispanohablante, en la medida que pretende una ordenación metodológica para realizar cruces de datos empíricos respecto a marcos conceptuales y teóricos para la investigación social, particularmente a través del software de análisis cualitativo *ATLAS.ti®*. El caso en concreto es la recuperación y procesamiento con fuentes históricas documentales, toda vez que, en el caso de Latinoamérica, los acervos históricos en buena medida pueden carecer de complejos sistemas de descripción a tercer nivel, sumado a la procura de investigar sobre fuentes históricas antes no consultadas a profundidad o de reciente disponibilidad al público.
 
 En este orden de ideas, es posible decir que el objetivo central del presente artículo-tutorial parte de establecer una metodología de recuperación digital descriptiva de fuentes históricas documentales y su cruce con marcos teóricos y conceptuales para la generación de investigación social. Cosa que permita también, la normalización descriptiva del lenguaje para que, a futuro, se consiga alinear las categorizaciones encontradas en la pesquisa con otros fondos documentales de similares características temáticas, que asientan ampliar marcos comparativos y de delimitación de los datos.
