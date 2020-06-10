@@ -3,7 +3,7 @@
 
 ### **Introducción**
 
-![Imagen 1](https://raw.githubusercontent.com/oacastrol/trial/master/Sin%20t%C3%ADtulo1.png)
+![Imagen 1]()
 ``Imagen 1``
 
 El artículo-tutorial por presentar es relevante para las Humanidades Digitales y para el mundo hispanohablante, en la medida que pretende una ordenación metodológica para realizar cruces de datos empíricos respecto a marcos conceptuales y teóricos para la investigación social, particularmente a través del software de análisis cualitativo *ATLAS.ti®*. El caso en concreto es la recuperación y procesamiento con fuentes históricas documentales, toda vez que, en el caso de Latinoamérica, los acervos históricos en buena medida pueden carecer de complejos sistemas de descripción a tercer nivel, sumado a la procura de investigar sobre fuentes históricas antes no consultadas a profundidad o de reciente disponibilidad al público.
